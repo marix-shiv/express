@@ -25,9 +25,3 @@ app.listen(process.env.PORT);
 // GET http://localhost:5000/
 
 
-git init
-git add -A
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/marix-shiv/express.git
-git push -u origin main
